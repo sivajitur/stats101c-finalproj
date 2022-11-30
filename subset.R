@@ -24,4 +24,4 @@ deviations <- Data_Final %>%
 
 # Observations goes from 53,845 to 11,821
 
-write.csv(deviations, file = 'subset.csv')
+write.csv(deviations, file = 'data_subset.csv')
